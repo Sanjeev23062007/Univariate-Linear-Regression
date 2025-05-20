@@ -50,7 +50,7 @@ plt.show()
 
 ```
 ## Output
-![linear regression ss](https://github.com/user-attachments/assets/9fe80ce4-0770-4859-bd13-a645b1f164b1)
+![Screenshot 2025-05-20 132626](https://github.com/user-attachments/assets/55b6235e-0419-4fc9-a9f9-ced500714dcc)
 
 
 ## Result
